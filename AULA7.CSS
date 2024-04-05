@@ -1,0 +1,7 @@
+body{
+    text-align: center;
+    font-family: cursive;
+    text-shadow: 5px 5px 5px yellow;
+    background: linear-gradient(rgba(198, 142, 22, 0.906));
+    background-image: url(1130_Mario_layout_site.webp);
+}
